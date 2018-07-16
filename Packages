@@ -1,0 +1,265 @@
+Package: com.boynakab.adblockforyoutube
+Name: AdBlock for Youtube
+Version: 1.0.7
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: This tweak blocks banner and video ads in the YouTube app.
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.adblockforyoutube
+Filename: ./debs/com.boynakab.adblockforyoutube_1.0.7_iphoneos-arm.deb
+Size: 31796
+MD5sum: bed6816fa575fbf0a1fd6cb4160bd1e2 
+Depends: firmware (>7.0), mobilesubstrate
+Author: BoyNaKab <something037@hotmail.com>
+Maintainer: BoyNaKab <something037@hotmail.com>
+
+Package: com.boynakab.alkaline
+Name: Alkaline
+Version: 1.3
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Tired of the boring (and tired) looking battery in your status bar? 
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.alkaline
+Filename: ./debs/com.boynakab.alkaline_1.3_iphoneos-arm.deb
+Size: 172902
+MD5sum: a4dc9a115f4c3975a6e8a5b30b73c888
+Depends: firmware (>7.0), mobilesubstrate
+Author: BoyNaKab <something037@hotmail.com>
+Maintainer: BoyNaKab <something037@hotmail.com>
+
+Package: com.boynakab.anemone
+Name: Anemone
+Version: 1.8.1-1
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: An awesome theming engine for iOS 7 through iOS 11!
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.anemone
+Filename: ./debs/com.boynakab.anemone_2.1.8-1_iphoneos-arm.deb
+Size: 1868662
+MD5sum: ae3df40f3a84bc0b7b772b29769cc313
+Depends: firmware (>7.0), mobilesubstrate
+Author: BoyNaKab <something037@hotmail.com>
+Maintainer: BoyNaKab <something037@hotmail.com>
+
+Package: com.boynakab.anemonefixfont
+Name: Anemone Fix Font iOS 11
+Version: 1.0
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Anemone Fix Font iOS 11
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.anemonefixfont
+Filename: ./debs/com.boynakab.anemonefixfont_1.0_iphoneos-arm.deb
+Size: 6884
+MD5sum: 81a83b820dcf3424a2488ff062d8e65e
+Depends: firmware (>7.0), mobilesubstrate
+Author: BoyNaKab <something037@hotmail.com>
+Maintainer: BoyNaKab <something037@hotmail.com>
+
+Package: com.boynakab.badiosbad
+Name: badiOSBad
+Version: 1.0.5
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Block iOS System Updates from the core and destroy app revokes!
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.badiosbad
+Filename: ./debs/com.boynakab.badiosbad_1.0.5_iphoneos-arm.deb
+Size: 2908
+MD5sum: 6bc037bc433edb0180e5d5abbf81ecca
+Depends: firmware (>7.0), mobilesubstrate
+Author: BoyNaKab <something037@hotmail.com>
+Maintainer: BoyNaKab <something037@hotmail.com>
+
+Package: com.boynakab.cercube
+Name: Cercube for Youtube
+Version: 4.2.2.5
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Cercube is localized in English, Arabic, German & Italian.
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.cercube
+Filename: ./debs/com.boynakab.cercube_4.2.2.5_iphoneos-arm.deb
+Size: 2797690
+MD5sum: ca5553fcc99697956746e73d09abb400
+Depends: firmware (>7.0), mobilesubstrate
+Author: BoyNaKab <something037@hotmail.com>
+Maintainer: BoyNaKab <something037@hotmail.com>
+
+Package: com.boynakab.certremaintime
+Name: CertRemainTime
+Version: 2.3.4-2
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Compatible with iOS 10 and 11
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.certremaintime
+Filename: ./debs/com.boynakab.certremaintime_2.3.4-2_iphoneos-arm.deb
+Size: 506548
+MD5sum: 3a886d86130cb289e9fa24c8595f51b8
+Depends: firmware (>7.0), mobilesubstrate
+Author: BoyNaKab <something037@hotmail.com>
+Maintainer: BoyNaKab <something037@hotmail.com>
+
+Package: com.boynakab.cydown
+Name: CyDown
+Version: 6.9.5
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Cydia Download Manager & Extra Features!
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.cydown
+Filename: ./debs/com.boynakab.cydown_6.9.5_iphoneos-arm.deb
+Size: 1066150
+MD5sum: fb7d84c0ff46e102e6defc5faf1e507f
+Depends: firmware (>7.0), mobilesubstrate
+Author: BoyNaKab <something037@hotmail.com>
+Maintainer: BoyNaKab <something037@hotmail.com>
+
+Package: com.boynakab.e857kwan
+Name: E857+Kwan'Narapron(group)17
+Version: 1.0
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Cydia Download Manager & Extra Features!
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.e857kwan
+Filename: ./debs/com.boynakab.e857kwan_1.0_iphoneos-arm.deb
+Size: 710860
+MD5sum: 7c8ac2e7dedcd5d49cc9f6c22ab52edd
+Depends: firmware (>7.0), mobilesubstrate
+Author: BoyNaKab <something037@hotmail.com>
+Maintainer: BoyNaKab <something037@hotmail.com>
+
+Package: com.boynakab.filza
+Name: Filza File Manager
+Version: 3.5.2-1
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Compatible with iOS 7, 8, 9, 10 and 11
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.filza
+Filename: ./debs/com.boynakab.filza_3.5.2-1_iphoneos-arm.deb
+Size: 10019646
+MD5sum: 439b0381d6ccd3f3b91762b78587132f
+Depends: firmware (>7.0), mobilesubstrate
+Author: BoyNaKab <something037@hotmail.com>
+Maintainer: BoyNaKab <something037@hotmail.com>
+
+Package: com.boynakab.flex3beta
+Name: Flex 3 beta
+Version: 3~beta46
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Compatible with iOS 11
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.flex3beta
+Filename: ./debs/com.boynakab.flex3beta_3~beta46_iphoneos-arm.deb
+Size: 18767094
+MD5sum: 383b6eeb20e9cff3722c1ddb0404c079
+Depends: firmware (>7.0), mobilesubstrate
+Author: BoyNaKab <something037@hotmail.com>
+Maintainer: BoyNaKab <something037@hotmail.com>
+
+Package: com.boynakab.
+Name: iClraner Pro
+Version: 7.7.0
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: For iPhone, iPod and iPad.
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.icleanerpro
+Filename: ./debs/com.boynakab.com.boynakab.icleanerpro_7.7.0_iphoneos-arm.deb
+Size: 4625528
+MD5sum: 717f23162f6c1e755b2eb9dfe3c848f5
+Depends: firmware (>7.0), mobilesubstrate
+Author: BoyNaKab <something037@hotmail.com>
+Maintainer: BoyNaKab <something037@hotmail.com>
+
+Package: com.boynakab.newterm2
+Name: NewTerm 2
+Version: 2.0
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Terminal Support
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.newterm2
+Filename: ./debs/com.boynakab.newterm2_2.0_iphoneos-arm.deb
+Size: 739424
+MD5sum: 1a7d4b856392cc19114e7a4356ba9252
+Depends: firmware (>7.0), mobilesubstrate
+Author: BoyNaKab <something037@hotmail.com>
+Maintainer: BoyNaKab <something037@hotmail.com>
+
+Package: com.boynakab.tsssaver
+Name: TSS Saver
+Version: 1.2.0
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: A one-click tool to save blobs using TSSsaver.1conan.com
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.tsssaver
+Filename: ./debs/com.boynakab.tsssaver_1.2.0_iphoneos-arm.deb
+Size: 151994
+MD5sum: 22986cbd90e3f8351eede9404bf374c4
+Depends: firmware (>7.0), mobilesubstrate
+Author: BoyNaKab <something037@hotmail.com>
+Maintainer: BoyNaKab <something037@hotmail.com>
+
+Package: com.boynakab.tweakcompatible
+Name: tweakCompatible
+Version: 0.0.7
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Compatible with iOS 10 and 11
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.tweakcompatible
+Filename: ./debs/com.boynakab.tweakcompatible_0.0.7_iphoneos-arm.deb
+Size: 17982
+MD5sum: 86fe5df3421cebaa40140a540e64c345
+Depends: firmware (>7.0), mobilesubstrate
+Author: BoyNaKab <something037@hotmail.com>
+Maintainer: BoyNaKab <something037@hotmail.com>
+
+Package: com.boynakab.xgpspro
+Name: Fake GPS Pro
+Version: 3.6.7
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: CHANGE your iPhone's location as you wish.
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.xgpspro
+Filename: ./debs/com.boynakab.xgpspro_3.6.7_iphoneos-arm.deb
+Size: 4136254
+MD5sum: cc1e5e14f80e560987b8ca43e72310f3
+Depends: firmware (>7.0), mobilesubstrate
+Author: BoyNaKab <something037@hotmail.com>
+Maintainer: BoyNaKab <something037@hotmail.com>
+
+Package: com.boynakab.xgress
+Name: Xgress
+Version: 2.0
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Play Ingress on Jailbroken Devices
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.xgress
+Filename: ./debs/com.boynakab.xgress_2.0_iphoneos-arm.deb
+Size: 5208
+MD5sum: 090771a9f35294186c24b7c4da8752f8
+Depends: firmware (>7.0), mobilesubstrate
+Author: BoyNaKab <something037@hotmail.com>
+Maintainer: BoyNaKab <something037@hotmail.com>
+
+Package: com.boynakab.newpackage
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: BoyNaKab <something037@hotmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.boynakab.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: BoyNaKab <something037@hotmail.com>
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.newpackage
+
+Package: com.boynakab.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: BoyNaKab <something037@hotmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.boynakab.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: BoyNaKab <something037@hotmail.com>
+Depiction: https://boynakab.github.io/repo/depictions/?p=com.boynakab.oldpackage

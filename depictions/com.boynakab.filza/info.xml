@@ -1,0 +1,56 @@
+<package>
+	<id>com.boynakab.filza</id>
+	<name>Filza File Manager</name>
+	<version>3.5.2-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+		Compatible with iOS 7, 8, 9, 10 and 11<br/> 
+		Powerful File Manager for iPhone, iPad, iPod Touch. Flat design, with best performance:<br/>
+		– File viewers: Media player, Hex editor, Text editor, SQLite Editor, IPA Installer, DEB Installer, Web viewer, Terminal ….<br/>
+		– SQLite Editor was design for large query, works well with over 100k+ rows in result<br/>
+		– Execute shell scripts and applications just few tap<br/>
+		– Cloud services: Dropbox, Box, Google Drive, WebDAV, FTP, SFTP<br/>
+		– Supports SMB (Windows File Sharing)<br/>
+		– Search files and folders easily<br/>
+		– Powerful files copy/move design, just few taps<br/>
+		– Download normal/html file with easy way: copy html link to Pasteboard, and paste it to destination folder<br/>
+		– Manage Music library easily: import/export/delete/rename ... just do same as normal files<br/>
+		– Explore files in list view mode or grid view mode, with thumbnail<br/>
+		– Compress zip file, decompress zip/7z/rar/tar/tar.gz/gz ...<br/>
+		– Install and extract DEB/IPA file, view DEB/IPA file information<br/>
+		– Black theme and white theme, custom folder icon, file extension icon, ...<br/>
+		– And more features ...
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

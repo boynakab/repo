@@ -1,0 +1,46 @@
+<package>
+	<id>com.boynakab.tweakcompatible</id>
+	<name>tweakCompatible</name>
+	<version>0.0.7</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+		Compatible with iOS 10 and 11<br/> 
+		Adds a way to check tweak compatibility in Cydia. Click the search icon in the upper right on any package details page, to see if the community has flagged your package as 'working' with your running iOS version.<br/>
+		A full list of working tweaks can be found here<br/>
+		A github account is required to flag tweaks as working/not<br/>
+		The whole thing is hosted on github<br/>
+		No options to configure.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

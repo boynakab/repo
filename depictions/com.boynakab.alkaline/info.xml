@@ -1,0 +1,42 @@
+<package>
+	<id>com.boynakab.alkaline</id>
+	<name>Alkaline</name>
+	<version>1.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+		Tired of the boring (and tired) looking battery in your status bar? Looking to spice up your theme to stand out from the rest? Then you need...<br/> 
+		is a themeable status bar battery replacement for iOS 7. Take control of your theme with a completely customizable new look. Choose from the 3 included themes (Bolus, Spots, and Habesha*) or design your own! The themeing engine within Alkaline is completely self-sustained and does not require Winterboard. Just select your theme from the list and go!
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

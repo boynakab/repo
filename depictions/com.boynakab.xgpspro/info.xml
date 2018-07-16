@@ -1,0 +1,50 @@
+<package>
+	<id>com.boynakab.xgpspro</id>
+	<name>Fake GPS Pro</name>
+	<version>3.6.7</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+		CHANGE your iPhone's location as you wish. A perfect match for Facebook, Twitter, WeChat, Pokemon GO, Uber and other location-based apps. <br/> 
+		Supports all iOS system versions(5.1.1-11.3.1) and devices(iPhone, iPad, iPod Touch), including iOS 11.4 beta 1~3 支持所有iOS系统版本(5.1.1-11.3.1)及设备(iPhone, iPad, iPod Touch)，包括新出来的11.3.1越狱系统和 iOS 11.4 beta 1~3系统。<br/>
+		Contact tinyapps@qq.com anytime you like. 有任何问题，均可直接联系邮件客服<br/>
+		任何问题请联系邮件客服 tinyapps@qq.com<br/>
+		Fake GPS is an app with which you can change your iPhone/iPad's current location as you wish. After setting a fake location with just a long press on a map view, all location-based apps(like Facebook, Twitter, Line, Wechat, etc) on your device immediately believe you are there.<br/>
+		It is really a perfectly match for Facebook, Twitter, Line and other location-based apps. By changing your location, you can:<br/>
+		1. Protect your location privacy from people on SNS sites.<br/>
+		2. Get around the location specific locks that some apps put in place to prevent you from viewing content in certain regions.<br/>
+		3. Go where you've never been before, and meet people there, in a second.<br/>
+		Configure from XGPS app.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

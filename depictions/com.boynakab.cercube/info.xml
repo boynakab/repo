@@ -1,0 +1,62 @@
+<package>
+	<id>com.boynakab.cercube</id>
+	<name>TCercube for Youtube</name>
+	<version>4.2.2.5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Cercube is localized in English, Arabic, German & Italian.</description>
+		<description><![CDATA[
+		Downloads<br/> 
+		- Download videos up to 4K resolution<br/>
+		- Download videos as audio only<br/>
+		- Set default download quality<br/>
+		- Play downloads in a material design player<br/>
+		- Manage and share downloads to any app<br/>
+		- Import downloads to Music or Videos<br/>
+		Video Player<br/>
+		- Play YouTube videos using Picture in Picture<br/>
+		- Set default YouTube player quality on WiFi<br/>
+		- Set default YouTube player quality on 3G/4G<br/>
+		- Auto replay videos on end<br/>
+		- Add rewind and forward skipping buttons<br/>
+		- Add speed controls to YouTube player<br/>
+		Enhancements<br/>
+		- Change default startup page<br/>
+		- Enable background playback<br/>
+		- Play in high quality on Mobile Data<br/>
+		Customization<br/>
+		- Remove Trending tab<br/>
+		- Force white keyboard accross app
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
